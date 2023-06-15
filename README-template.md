@@ -14,7 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -24,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/judithlk/frontend-mentor-qr-code](https://github.com/judithlk/frontend-mentor-qr-code)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -46,7 +45,7 @@ I ensured to design for mobile first, and then for other screen sizes.
 
 ### What I learned
 
-I started learning Sass yesterday and I as able to implement it into this project. Below is a snippet of sass code making use of @mixin and @include.
+I started learning Sass yesterday and I was able to implement it into this project. Below is a snippet of sass code making use of @mixin and @include.
 
 ```scss
 @mixin wrapper-style($height, $width) {
