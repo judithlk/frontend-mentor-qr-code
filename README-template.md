@@ -45,7 +45,7 @@ I ensured to design for mobile first, and then for other screen sizes.
 
 ### What I learned
 
-I started learning Sass yesterday and I was able to implement it into this project. Below is a snippet of sass code making use of @mixin and @include.
+I started learning Sass yesterday and I was able to implement it in this project. Below is a snippet of my Sass code making use of @mixin and @include.
 
 ```scss
 @mixin wrapper-style($height, $width) {
