@@ -24,8 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/judithlk/frontend-mentor-qr-code](https://github.com/judithlk/frontend-mentor-qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [https://judithlk.github.io/](https://judithlk.github.io/)
 ## My process
 
 I started out with the basic HTML of the page, index.html. Next I created my .scss and .css files and started Sass watching in the terminal.
